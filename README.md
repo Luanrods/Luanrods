@@ -1,4 +1,4 @@
-**Engenheiro Eletricista & Gerente de Projetos — EPC / Subestações de Alta Tensão**
+**Engenheiro Eletricista & Gerente de Projetos**
 
 4+ anos gerenciando projetos de subestação no Brasil. MSc em Engenharia Elétrica (UFRGS),
 MBA em Gestão de Projetos (USP/ESALQ). Construo minhas próprias ferramentas de análise
