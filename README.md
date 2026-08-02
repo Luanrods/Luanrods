@@ -1,9 +1,8 @@
 **Engenheiro Eletricista & Gerente de Projetos**
 
 4+ anos gerenciando projetos de subestação no Brasil. MSc em Engenharia Elétrica (UFRGS),
-MBA em Gestão de Projetos (USP/ESALQ). Construo minhas próprias ferramentas de análise
-quantitativa de risco porque não confio em caixa-preta — e porque é a forma mais honesta
-de entender o que está por trás de um número de contingência.
+MBA em Gestão de Projetos (USP/ESALQ). Construo minhas próprias ferramentas de análise e entendo que é a forma mais honesta
+de saber o que está por trás de um número de contingência.
 
 **Em foco agora:**
 🔹 [MVP-Risk](https://github.com/Luanrods/MVP-Risk) — MVP Open-Source de Análise Quantitativa de Riscos (Monte Carlo, PERT/Triangular, Python)
